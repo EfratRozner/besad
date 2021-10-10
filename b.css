@@ -1,0 +1,62 @@
+.a1{
+
+    height: 30vh;
+    background-color: blue;
+}
+ 
+.a2 {
+    height: 0;
+    width: 0;
+    border-left: 1906px solid  blue;
+    border-right: 0px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-top: 0px solid transparent;
+  }
+.b{
+    border-radius: 8px;
+    margin: 10px;
+}
+#container{
+margin: auto;
+text-align: center;
+}
+h1{
+    position: relative;
+    bottom: 300px;
+}
+#buttom{
+    position: relative;
+    bottom: 300px; 
+}
+#hh{
+ 
+    position: relative;
+    bottom: 270px; 
+    
+}
+.galerry{
+  
+    line-height: 0;    
+}
+.border{
+    position: relative;
+    bottom: 8250px;
+    width: 600px;
+    background-color: rgba(153, 51, 131, 0.548);
+    /* background-color: black; */
+    height: 400px;
+    margin: auto;
+ 
+    background-size: cover;
+  /* margin-right: 120px; */
+    perspective: 410px;
+}
+img{
+    width: 600px;
+    height: 400px;
+}
+.ground{
+    background-color: brown;
+    height: 1000px;
+}
+
